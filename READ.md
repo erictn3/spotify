@@ -1,0 +1,1 @@
+This is a mini project on utilizing Spotify's API
